@@ -19,6 +19,6 @@ Scope:
 
 #### Content Notes:
 
-###### Module I: [Application of computer vision to medical diagnosis](/C1/notes/week2/module1.md) 
+###### Module I: [Application of computer vision to medical diagnosis](/C1/notes/week1/module1.md) 
 ###### Module II: [Handling class imbalance and small training sets](/C1/notes/week1/module2.md) 
 ###### Module II: [Checking model performance](/C1/notes/week1/module3.md)
