@@ -1,0 +1,5 @@
+{
+    "python.analysis.fixAll": [],
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.inlayHints.callArgumentNames": "partial"
+}
